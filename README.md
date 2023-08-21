@@ -1,4 +1,4 @@
-# Coinjoin-lib
+# Coinjoin Lib
 
 Library for CoinJoin
 
@@ -11,3 +11,10 @@ CoinJoin is a process used to anonymize Bitcoin transactions online. CoinJoin in
 - Rust
 - Javascript
 - Dart
+
+
+## Roadmap
+
+- [ ] Set algorithm for Coinjoin
+- [ ] SDK
+- [ ] Alpha Software
