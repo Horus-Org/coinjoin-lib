@@ -1,4 +1,4 @@
-# Coinjoin Lib
+# Coinjoin Library
 
 Library for CoinJoin
 
