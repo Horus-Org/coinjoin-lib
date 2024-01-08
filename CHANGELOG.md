@@ -1,3 +1,3 @@
-## Coinjoin Library Release
+## Coinjoin Library Releases and Development
 
 TBD
