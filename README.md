@@ -21,3 +21,4 @@ CoinJoin is a process used to anonymize Bitcoin transactions online. CoinJoin in
 - [ ] Initial SDK
 - [ ] Initial design
 - [ ] Alpha Software
+- [ ] APIs
